@@ -16,5 +16,7 @@ app1 = tkinter.Tk()
 TTK = tkinter.ttk
 TTK.Button()
 
+# Those are come comments! 
 app1.mainloop() 
+
 
